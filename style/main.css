@@ -103,7 +103,7 @@ body {
 
 .six img {
   display: inline-block;
-  height: 500px;
+  height: 320px;
   max-width: 100%;
   /* height: auto; */
 }
@@ -113,7 +113,7 @@ body {
   position: absolute;
   /* transform: scale(0.1); */
   top: -49%;
-  width: 120px;
+  width: 80px;
 }
 
 .baloons img {
